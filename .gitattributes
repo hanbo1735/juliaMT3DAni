@@ -1,1 +1,4 @@
 *.jl linguist-language=Julia
+*.mod linguist-language=Julia
+*.dat linguist-language=Julia
+*.resp linguist-language=Julia
