@@ -1,13 +1,13 @@
 #
-*.model
-*.dat
-*.mod
-*.txt
-*.grd
-*.iter
-*.log
-*.pdf
-*.m
-*.resp
+#*.model
+#*.dat
+#*.mod
+#*.txt
+#*.grd
+#*.iter
+#*.log
+#*.pdf
+#*.m
+#*.resp
 
-src/MT3DFwdSolver/test/
+#src/MT3DFwdSolver/test/
