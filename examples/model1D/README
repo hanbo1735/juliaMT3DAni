@@ -1,0 +1,12 @@
+The first numerical example in the manuscript
+
+Files:
+*.dat       data file
+*.mod       model file
+*.resp      response file
+*.jl        Julia script to run the forward modeling
+
+
+Directories: 
+AnalyticalSolution/.       contains analytical solution of the model.
+plot/.                     contains matlab script to read and plot the forward responses, can reproduce Figure 5 in the manuscript.

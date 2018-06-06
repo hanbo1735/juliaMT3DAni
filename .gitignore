@@ -1,4 +1,13 @@
-*.jl.cov
-*.jl.*.cov
-*.jl.mem
-deps/deps.jl
+#
+*.model
+*.dat
+*.mod
+*.txt
+*.grd
+*.iter
+*.log
+*.pdf
+*.m
+*.resp
+
+src/MT3DFwdSolver/test/
